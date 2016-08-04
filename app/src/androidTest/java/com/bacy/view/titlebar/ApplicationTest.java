@@ -8,6 +8,9 @@ import android.test.ApplicationTestCase;
  */
 public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
+    	
+    	
+    	//dsfsdfsf
         super(Application.class);
     }
 }
