@@ -19,6 +19,10 @@ public class MainActivity extends AppCompatActivity {
     private ImageView mCollectView;
     private boolean mIsSelected;
 
+
+
+
+
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
